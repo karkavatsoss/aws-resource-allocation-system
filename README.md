@@ -221,3 +221,7 @@ Expected utility: 0.114811
 - No fault tolerance handling
 - Requires manual configuration of IP addresses
 - Designed for educational purposes
+
+## Petri Net Model
+
+![Petri Net](images/petri_net.png)
