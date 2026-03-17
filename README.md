@@ -12,6 +12,7 @@ The architecture is distributed and built using AWS components such as EC2, SQS,
 
 ## Architecture
 
+![System Architecture](images/architecture.png)
 The system is divided into two main parts:
 
 ### 1. User Side (EC2 Instances)
