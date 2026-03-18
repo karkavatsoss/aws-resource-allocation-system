@@ -4,7 +4,7 @@
 
 This project implements a cloud-based resource allocation system using AWS services and game-theoretic principles.
 
-The system simulates how multiple users submit computational tasks to a cloud provider and compete for shared resources, balancing execution time and cost to maximize their utility. :contentReference[oaicite:0]{index=0}
+The system simulates how multiple users submit computational tasks to a cloud provider and compete for shared resources, balancing execution time and cost to maximize their utility. 
 
 The architecture is distributed and built using AWS components such as EC2, SQS, Lambda, and DynamoDB.
 
